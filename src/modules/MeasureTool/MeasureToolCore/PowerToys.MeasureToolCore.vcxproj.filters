@@ -49,7 +49,6 @@
     <Manifest Include="app.manifest" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
     <None Include="MeasureToolCore.def" />
   </ItemGroup>
   <ItemGroup>

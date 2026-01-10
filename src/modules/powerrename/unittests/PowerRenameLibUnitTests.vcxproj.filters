@@ -10,6 +10,8 @@
     <ClCompile Include="PowerRenameRegExTests.cpp" />
     <ClCompile Include="TestFileHelper.cpp" />
     <ClCompile Include="PowerRenameRegExBoostTests.cpp" />
+    <ClCompile Include="MetadataFormatHelperTests.cpp" />
+    <ClCompile Include="WICMetadataExtractorTests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="MockPowerRenameItem.h" />
@@ -57,5 +59,7 @@
     <None Include="testdata\ATTRIBUTION.md">
       <Filter>testdata</Filter>
     </None>
+    <None Include="testdata\heif_test.heic" />
+    <None Include="testdata\avif_test.avif" />
   </ItemGroup>
 </Project>
